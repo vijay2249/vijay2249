@@ -2,9 +2,8 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Django, React
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me mail: nelaku_851983@student.nitw.ac.in
--  vijaychowdary3699@gmail.com
-Currently 2nd year Btech graduate from NIT Warangal.
+- 📫 How to reach me mail: nelaku_851983@student.nitw.ac.in   vijaychowdary3699@gmail.com
+- Currently 2nd year Btech graduate from NIT Warangal.
 
 
 <!---
