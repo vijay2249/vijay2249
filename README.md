@@ -26,10 +26,8 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **vijaychowdary3699@gmail.com <br> nelaku_851983@student.nitw.ac.in**
 
-<!---
-![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vijay2249&show_icons=true&theme=midnight-purple)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijay2249&theme=midnight-purple)
---->
+- ⚡ Fun fact: I try to learn new things each new day non-releated to work I am doing which lead me all the way to ->**[here](https://github.com/DUMMY-the-BOT)**
+
 
 <p align="left">
   <h3 align="left">Connect with me:</h3>
