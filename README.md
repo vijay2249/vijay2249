@@ -13,22 +13,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!-- introduction -->
 <h1 align="center">Hi 👋, I'm Vijay Chowdary N</h1>
 <h2 align="center"> Currently 2nd year graduate from NIT Warangal<h2>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A Enthusiastic frontend developer</h3>
 
 
+- 🔭 I’m currently working on **___My Frontend Learnings___**
 
-- 🔭 I’m currently working on **My Frontend Learning**
+- 🌱 I’m currently learning **___React___, Git, ___UI___, Python, Networking**
 
-- 🌱 I’m currently learning **React, Django, UI**
+- 📫 How to reach me **___vijaychowdary3699@gmail.com___ <br> nelaku_851983@student.nitw.ac.in**
 
-- 📫 How to reach me **vijaychowdary3699@gmail.com <br> nelaku_851983@student.nitw.ac.in**
+- ⚡ Fun fact: I try to learn new things each day non-releated to work I am doing, which lead me all the way to ->**[here](https://github.com/DUMMY-the-BOT)**
 
-- ⚡ Fun fact: I try to learn new things each new day non-releated to work I am doing which lead me all the way to ->**[here](https://github.com/DUMMY-the-BOT)**
+- 🤔 I’m looking for help with -> ___Networking___
 
-
+<!-- connections -->
 <p align="left">
   <h3 align="left">Connect with me:</h3>
   <a href="https://www.linkedin.com/in/vijay-chowdary-nelakurthi/" target="blank">
@@ -40,11 +41,15 @@ Here are some ideas to get you started:
   <a href="https://codesandbox.io/u/vijay2249" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="canvarer" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/v_jai_cn" target="blank">
+  <a href="https://instagram.com/vcn_styles" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="canvarer" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/VijayCh0710" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="canvarer" height="30" width="40" />
   </a>
 </p>
 
+<!-- languges and tools learned -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://babeljs.io/" target="_blank">
@@ -76,6 +81,16 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+<!-- most languages used -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vijay2249&show_icons=true&theme=radical&title_color=00ff4c&text_color=0059ff&bg_color=000000&locale=en&layout=compact" alt="vijay2249" /></p>
-<br>
+<br/>
+<!-- github status -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vijay2249&show_icons=true&locale=en" alt="vijay2249" /></p>
+
+<!-- github streak -->
+<p><img src = "https://github-readme-streak-stats.herokuapp.com/?user=vijay2249"></p>
+
+<!-- pinned repos -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vijay2249&repo=SmartBrainFrontend)](https://github.com/vijay2249/SmartBrainFrontend)
+
+[![ReadmeCard](https://github-readme-status.vercel.app/api/pin/?username=vijay2249&repo=3dflipcard)](https://github.com/vijay2249/3dflipcard)
