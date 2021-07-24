@@ -13,6 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 
 [![Gmail Badge](https://img.shields.io/badge/-vijaychowdary3699@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vijaychowdary3699@gmail.com)](mailto:vijaychowdary3699@gmail.com)
+[![ProtonMail Badge](https://img.shields.io/badge/-vijaychowdary2249@protonmail.com-c14438?style=flat-square&logo=ProtonMail&logoColor=white&link=mailto:vijaychowdary249@protonmail.com)](mailto:vijaychowdary2249@protonmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Vijay_Chowdary-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nelakurthi-vijay-chowdary/)](https://www.linkedin.com/in/vijay-chowdary-nelakurthi/)
 [![Codesandbox](https://img.shields.io/badge/-vijay2249-orange?style=flat-square&logo=Codesandbox&logoColor=white&link=https://codesandbox.io/u/vijay2249)](https://codesandbox.io/u/vijay2249)
 [![Codechef](https://img.shields.io/badge/-vijay2407-inactive?style=flat-square&logo=Codechef&logoColor=white&link=https://codechef.com/users/vijay_2407)](https://codechef.com/users/vijay_2407)
@@ -51,13 +52,13 @@
   </a>
 </p>
 
+<!--  Github Status (current year)  -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vijay2249&show_icons=true&locale=en&theme=dark" alt="vijay2249" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijay2249&theme=dark&layout=compact&title_color=00ff4c&text_color=0059ff)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Top Languages used   -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijay2249&theme=dark&layout=compact&title_color=00ff4c&text_color=0059ff&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- pinned repos -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vijay2249&repo=SmartBrainFrontend)](https://github.com/vijay2249/SmartBrainFrontend)
 
 [![ReadmeCard](https://github-readme-status.vercel.app/api/pin/?username=vijay2249&repo=3dflipcard)](https://github.com/vijay2249/3dflipcard)
-  
-![Vusotors](https://komarev.com/ghpvc/?username=vijay2249&color=orange&style=plastic&label=VISITORS)
