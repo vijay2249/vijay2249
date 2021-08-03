@@ -1,6 +1,6 @@
 <!-- introduction -->
 <h1 align="center">Hi 👋, I'm Vijay Chowdary N</h1>
-<h2 align="center"> Currently 2nd year graduate from NIT Warangal<h2>
+<h2 align="center"> Currently 3rd year graduate from NIT Warangal<h2>
 <h3 align="center">A Enthusiastic frontend developer</h3>
 
 - 🔭 I’m currently working on **___My Frontend Learnings___**
