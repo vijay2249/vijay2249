@@ -59,6 +59,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijay2249&theme=dark&layout=compact&title_color=00ff4c&text_color=0059ff&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- pinned repos -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vijay2249&repo=SmartBrainFrontend)](https://github.com/vijay2249/SmartBrainFrontend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vijay2249&repo=Smart-Brain)](https://github.com/vijay2249/Smart-Brain)
 
 [![ReadmeCard](https://github-readme-status.vercel.app/api/pin/?username=vijay2249&repo=3dflipcard)](https://github.com/vijay2249/3dflipcard)
