@@ -60,5 +60,4 @@
 
 <!-- pinned repos -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vijay2249&repo=Smart-Brain)](https://github.com/vijay2249/Smart-Brain)
-
-[![ReadmeCard](https://github-readme-status.vercel.app/api/pin/?username=vijay2249&repo=3dflipcard)](https://github.com/vijay2249/3dflipcard)
+[![ReadmeCard](https://github-readme-status.vercel.app/api/pin/?username=vijay2249&repo=stress-relief)](https://github.com/vijay2249/stress-relief)
