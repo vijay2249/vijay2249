@@ -62,4 +62,3 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vijay2249&repo=Smart-Brain)](https://github.com/vijay2249/Smart-Brain)
 [![ReadmeCard](https://github-readme-status.vercel.app/api/pin/?username=vijay2249&repo=stress-relief)](https://github.com/vijay2249/stress-relief)
 
-![Visitors](https://komarev.com/ghpvc/?username=vijay2249&color=orange&style=plastic&label=VISITORS)
