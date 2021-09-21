@@ -8,7 +8,7 @@
 - 📫 How to reach me **_vijaychowdary3699@gmail.com_**  _nelaku_851983@student.nitw.ac.in_
 - ⚡ Fun fact: I try to learn new things each day non-releated to work I am doing, which lead me all the way to ->**[DUMMY-the-BOT](https://github.com/DUMMY-the-BOT)**
 - 🤔 I’m looking for help with -> ___Routing in ReactJs___
-
+  
 <!-- connections -->
 <h3 align="left">Connect with me:</h3>
 
@@ -19,6 +19,7 @@
 [![Codechef](https://img.shields.io/badge/-vijay2407-inactive?style=flat-square&logo=Codechef&logoColor=white&link=https://codechef.com/users/vijay_2407)](https://codechef.com/users/vijay_2407)
 [![Twitter](https://img.shields.io/badge/-VijayCh0710-informational?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/VijayCh0710)](https://twitter.com/VijayCh0710)
 [![Instagram Badge](https://img.shields.io/badge/-vcn__styles-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/vcn_styles/)](https://instagram.com/vcn_styles)
+[![Portfolio](https://img.shields.io/badge/-V1JAI--CN-informational?style=flat-square&logoColor=white&link=https://v1jai-cn.vercel.app/)](https://v1jai-cn.vercel.app/)
 
 <!-- languges and tools learned -->
 <h3 align="left">Languages and Tools:</h3>
