@@ -12,8 +12,8 @@
 <!-- connections -->
 <h3 align="left">Connect with me:</h3>
 
-[![Gmail Badge](https://img.shields.io/badge/-vijaychowdary3699@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vijaychowdary3699@gmail.com)](mailto:vijaychowdary3699@gmail.com)
-[![ProtonMail Badge](https://img.shields.io/badge/-vijaychowdary2249@protonmail.com-c14438?style=flat-square&logo=ProtonMail&logoColor=white&link=mailto:vijaychowdary249@protonmail.com)](mailto:vijaychowdary2249@protonmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-vijaychowdary3699-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vijaychowdary3699@gmail.com)](mailto:vijaychowdary3699@gmail.com)
+[![ProtonMail Badge](https://img.shields.io/badge/-vijaychowdary2249-c14438?style=flat-square&logo=ProtonMail&logoColor=white&link=mailto:vijaychowdary249@protonmail.com)](mailto:vijaychowdary2249@protonmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Vijay_Chowdary-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nelakurthi-vijay-chowdary/)](https://www.linkedin.com/in/vijay-chowdary-nelakurthi/)
 [![Codesandbox](https://img.shields.io/badge/-vijay2249-orange?style=flat-square&logo=Codesandbox&logoColor=white&link=https://codesandbox.io/u/vijay2249)](https://codesandbox.io/u/vijay2249)
 [![Codechef](https://img.shields.io/badge/-vijay2407-inactive?style=flat-square&logo=Codechef&logoColor=white&link=https://codechef.com/users/vijay_2407)](https://codechef.com/users/vijay_2407)
@@ -30,11 +30,11 @@
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="git" width="40" height="40"/>
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="git" width="40" height="40"/>
   </a>
   <a href='https://isocpp.org/' target='_blank'>
     <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg' alt='cpp' width='40' height='40' />
