@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **___My Frontend Learnings___**
 - 🌱 I’m currently learning **___React___, Git, ___UI___, Python, Networking**
-- 📫 How to reach me **_vijaychowdary3699@gmail.com_**  _nelaku_851983@student.nitw.ac.in_
+- 📫 How to reach me **_vijaychowdary3699@gmail.com_**  _vijaychowdary2249@protonmail.com_
 - ⚡ Fun fact: I try to learn new things each day non-releated to work I am doing, which lead me all the way to ->**[DUMMY-the-BOT](https://github.com/DUMMY-the-BOT)**
 - 🤔 I’m looking for help with -> ___Routing in ReactJs___
   
