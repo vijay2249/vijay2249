@@ -1,3 +1,9 @@
+<h3 align='center'>
+  <i>Treat every repository here as a open source project or just a playground repository to learn your favourite language or frameworks..</i>
+</h3>
+<br>
+
+
 <!-- introduction -->
 <h1 align="center">Hi 👋, I'm Vijay Chowdary N</h1>
 <h2 align="center"> Currently 3rd year graduate from NIT Warangal<h2>
