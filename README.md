@@ -1,5 +1,6 @@
 <h3 align='center'>
-  <i>Treat every repository here as a open source project or just a playground repository to learn your favourite language or frameworks..</i>
+  <i>Treat every repository here as a open source project or just a playground repository to learn your favourite language or frameworks..</i><br>
+  <i>Except my profile readme repository though</i>
 </h3>
 <br>
 
