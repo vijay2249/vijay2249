@@ -6,9 +6,10 @@
 - 🔭 I’m currently working on **___My Frontend Learnings___**
 - 🌱 I’m currently learning **___React___, Git, ___UI___, Python, Networking**
 - 📫 How to reach me **_vijaychowdary3699@gmail.com_**  _vijaychowdary2249@protonmail.com_
-- ⚡ Fun fact: I try to learn new things each day non-releated to work I am doing, which lead me all the way to ->**[V1-ZEI](https://github.com/V1-ZEI)**
+- ⚡ Fun fact: ___All the work you see here is open source, all pr's are accepted and you can whatever changes you can and also can treat it like a play-ground to learn your favourite languages or frameworks...___
+<!-- - ⚡ Fun fact: I try to learn new things each day non-releated to work I am doing, which lead me all the way to ->**[V1-ZEI](https://github.com/V1-ZEI)** -->
 - 🤔 I’m looking for help with -> ___Routing in ReactJs___
-  
+
 <!-- connections -->
 <h3 align="left">Connect with me:</h3>
 
@@ -25,38 +26,40 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="git" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
   <a href='https://isocpp.org/' target='_blank'>
-    <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg' alt='cpp' width='40' height='40' />
+    <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg' alt='NodeJs' width='40' height='40' />
   </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GIT" width="40" height="40"/>
+  </a>
+  <a href='https://isocpp.org/' target='_blank'>
+    <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg' alt='C++' width='40' height='40' />
+  </a>
+  
   <a href="https://postman.com" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> 
   </a>
   <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
   </a>
   <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   </a>
 </p>
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=vijay2249&theme=onedark)](https://github.com/vijay2249/github-profile-trophy)
 
 
 <!--  Github Status (current year)  -->
@@ -64,8 +67,3 @@
 
 <!-- Top Languages used   -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijay2249&theme=dark&layout=compact&title_color=00ff4c&text_color=0059ff&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- pinned repos -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vijay2249&repo=Smart-Brain)](https://github.com/vijay2249/Smart-Brain)
-[![ReadmeCard](https://github-readme-status.vercel.app/api/pin/?username=vijay2249&repo=stress-relief)](https://github.com/vijay2249/stress-relief)
-
