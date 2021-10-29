@@ -50,7 +50,7 @@
   <a href='https://isocpp.org/' target='_blank'>
     <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg' alt='C++' width='40' height='40' />
   </a>
-  <a href='https://isocpp.org/' target='_blank'>
+  <a href='https://docs.mongodb.com/develop-applications/' target='_blank'>
     <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg' alt='C++' width='40' height='40' />
   </a>
   <a href="https://postman.com" target="_blank"> 
