@@ -41,7 +41,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
-  <a href='https://isocpp.org/' target='_blank'>
+  <a href='https://nodejs.org/en/docs/' target='_blank'>
     <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg' alt='NodeJs' width='40' height='40' />
   </a>
   <a href="https://git-scm.com/" target="_blank">
