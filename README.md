@@ -22,12 +22,13 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-vijaychowdary3699-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vijaychowdary3699@gmail.com)](mailto:vijaychowdary3699@gmail.com)
 [![ProtonMail Badge](https://img.shields.io/badge/-vijaychowdary2249-c14438?style=flat-square&logo=ProtonMail&logoColor=white&link=mailto:vijaychowdary249@protonmail.com)](mailto:vijaychowdary2249@protonmail.com)
+[![Portfolio](https://img.shields.io/badge/-V1JAI--CN-informational?style=flat-square&logoColor=white&link=https://v1jai-cn.vercel.app/)](https://v1jai-cn.vercel.app/)
 [![Linkedin Badge](https://img.shields.io/badge/-Vijay_Chowdary-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nelakurthi-vijay-chowdary/)](https://www.linkedin.com/in/vijay-chowdary-nelakurthi/)
 [![Codesandbox](https://img.shields.io/badge/-vijay2249-orange?style=flat-square&logo=Codesandbox&logoColor=white&link=https://codesandbox.io/u/vijay2249)](https://codesandbox.io/u/vijay2249)
 [![Codechef](https://img.shields.io/badge/-vijay2407-inactive?style=flat-square&logo=Codechef&logoColor=white&link=https://codechef.com/users/vijay_2407)](https://codechef.com/users/vijay_2407)
 [![Twitter](https://img.shields.io/badge/-VijayCh0710-informational?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/VijayCh0710)](https://twitter.com/VijayCh0710)
+[![](https://img.shields.io/badge/-V1--ZEI-green?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCcLbf3YcgF6MVLXl8GudvfQ)](https://www.youtube.com/channel/UCcLbf3YcgF6MVLXl8GudvfQ)
 [![Instagram Badge](https://img.shields.io/badge/-vcn__styles-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/vcn_styles/)](https://instagram.com/vcn_styles)
-[![Portfolio](https://img.shields.io/badge/-V1JAI--CN-informational?style=flat-square&logoColor=white&link=https://v1jai-cn.vercel.app/)](https://v1jai-cn.vercel.app/)
 
 <!-- languges and tools learned -->
 <h3 align="left">Languages and Tools:</h3>
