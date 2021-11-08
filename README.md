@@ -45,6 +45,8 @@
   <a href='https://nodejs.org/en/docs/' target='_blank'>
     <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg' alt='NodeJs' width='40' height='40' />
   </a>
+  <a href='https://nodejs.org/en/docs/' target='_blank'>
+  </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GIT" width="40" height="40"/>
   </a>
@@ -71,9 +73,9 @@
   </a>
 </p>
 
-
 <!--  Github Status (current year)  -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vijay2249&show_icons=true&locale=en&theme=dark" alt="vijay2249" /></p>
 
 <!-- Top Languages used   -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijay2249&theme=dark&layout=compact&title_color=00ff4c&text_color=0059ff&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
