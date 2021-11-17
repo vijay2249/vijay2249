@@ -22,7 +22,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-vijaychowdary3699-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vijaychowdary3699@gmail.com)](mailto:vijaychowdary3699@gmail.com)
 [![ProtonMail Badge](https://img.shields.io/badge/-vijaychowdary2249-c14438?style=flat-square&logo=ProtonMail&logoColor=white&link=mailto:vijaychowdary249@protonmail.com)](mailto:vijaychowdary2249@protonmail.com)
-[![Portfolio](https://img.shields.io/badge/-V1JAI--CN-informational?style=flat-square&logoColor=white&link=https://v1jai-cn.vercel.app/)](https://v1jai-cn.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/-V1ZEI--CN-informational?style=flat-square&logoColor=white&link=https://v1zei-cn.vercel.app/)](https://v1zei-cn.vercel.app/)
 [![Linkedin Badge](https://img.shields.io/badge/-Vijay_Chowdary-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nelakurthi-vijay-chowdary/)](https://www.linkedin.com/in/vijay-chowdary-nelakurthi/)
 [![Codesandbox](https://img.shields.io/badge/-vijay2249-orange?style=flat-square&logo=Codesandbox&logoColor=white&link=https://codesandbox.io/u/vijay2249)](https://codesandbox.io/u/vijay2249)
 [![Codechef](https://img.shields.io/badge/-vijay2407-inactive?style=flat-square&logo=Codechef&logoColor=white&link=https://codechef.com/users/vijay_2407)](https://codechef.com/users/vijay_2407)
