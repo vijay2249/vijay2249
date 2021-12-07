@@ -10,11 +10,8 @@
 <h2 align="center"> Currently 3rd year graduate from NIT Warangal<h2>
 <h3 align="center">A Enthusiastic frontend developer</h3>
 
-- 🔭 I’m currently working on **___My Frontend Learnings___**
-- 🌱 I’m currently learning **___React___, Git, ___UI___, Python, Networking**
-- 📫 How to reach me **_vijaychowdary3699@gmail.com_**  _vijaychowdary2249@protonmail.com_
+- 🔭 I’m currently working on **___[Stress-Work](https://github.com/vijay2249/E-xchange)___**
 - ⚡ Fun fact: ___All the work you see here is open source, all pr's are accepted and you can whatever changes you can and also can treat it like a play-ground to learn your favourite languages or frameworks...___
-<!-- - ⚡ Fun fact: I try to learn new things each day non-releated to work I am doing, which lead me all the way to ->**[V1-ZEI](https://github.com/V1-ZEI)** -->
 - 🤔 I’m looking for help with -> ___Routing in ReactJs___
 
 <!-- connections -->
