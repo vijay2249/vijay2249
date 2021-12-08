@@ -24,7 +24,7 @@
 [![Codesandbox](https://img.shields.io/badge/-vijay2249-orange?style=flat-square&logo=Codesandbox&logoColor=white&link=https://codesandbox.io/u/vijay2249)](https://codesandbox.io/u/vijay2249)
 [![Codechef](https://img.shields.io/badge/-vijay2407-inactive?style=flat-square&logo=Codechef&logoColor=white&link=https://codechef.com/users/vijay_2407)](https://codechef.com/users/vijay_2407)
 [![Twitter](https://img.shields.io/badge/-VijayCh0710-informational?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/VijayCh0710)](https://twitter.com/VijayCh0710)
-[![Youtube](https://img.shields.io/badge/-V1--ZEI-green?style=flat-square&logo=Youtube&logoColor=white&link=shorturl.at/ikBQ4)](shorturl.at/ikBQ4)
+[![Youtube](https://img.shields.io/badge/-V1--ZEI-green?style=flat-square&logo=Youtube&logoColor=white&link=https://shorturl.at/ikBQ4)](https://shorturl.at/ikBQ4)
 [![Instagram Badge](https://img.shields.io/badge/-vcn__styles-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/vcn_styles/)](https://instagram.com/vcn_styles)
 
 <!-- languges and tools learned -->
