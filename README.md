@@ -10,9 +10,10 @@
 <h2 align="center"> Currently 3rd year graduate from NIT Warangal<h2>
 <h3 align="center">A Enthusiastic frontend developer</h3>
 
-- 🔭 I’m currently working on **___[Stress-Work](https://github.com/vijay2249/E-xchange)___**
+<!-- - 🔭 I’m currently working on **___[Stress-Work](https://github.com/vijay2249/E-xchange)___** -->
 - ⚡ Fun fact: ___All the work you see here is open source, all pr's are accepted and you can whatever changes you can and also can treat it like a play-ground to learn your favourite languages or frameworks...___
-- 🤔 I’m looking for help with -> ___Routing in ReactJs___
+<!-- - 🤔 I’m looking for help with -  -->
+- 🌱 I’m currently learning ... NodeJs, Solidity, Machine Learning, ReactJs
 
 <!-- connections -->
 <h3 align="left">Connect with me:</h3>
