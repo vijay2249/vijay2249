@@ -77,3 +77,7 @@
 <!-- Top Languages used   -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijay2249&theme=dark&layout=compact&title_color=00ff4c&text_color=0059ff&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
+
+# ALERT!!!!!!!
+  Please Laugh atleast for a sec => Laugh can be found [here](https://www.youtube.com/watch?v=MHn8SnqLb68)😜😜
+  Tricks brain that you are having a good time even though you are going through impossible stupid assignment deadlines.
