@@ -6,7 +6,18 @@
 
 
 <!-- introduction -->
-<h1 align="center">Hi 👋, I'm Vijay Chowdary N</h1>
+
+```python
+I am 
+____   ____.__     __                       _________   _______   
+\   \ /   /|__|   |__|____  ___.__.         \_   ___ \  \      \  
+ \   Y   / |  |   |  \__  \<   |  |  ______ /    \  \/  /   |   \ 
+  \     /  |  |   |  |/ __ \\___  | /_____/ \     \____/    |    \
+   \___/   |__/\__|  (____  / ____|          \______  /\____|__  /
+              \______|    \/\/                      \/         \/ 
+```
+<h1 align='center'>Hello there, Welcome to my demo house👉😊</h1>
+<!--<h1 align="center">Hi 👋, I'm Vijay Chowdary N</h1> -->
 <!-- <h2 align="center"> Currently 3rd year graduate from NIT Warangal<h2> -->
 <h3 align="center">A Enthusiastic frontend developer</h3>
 
