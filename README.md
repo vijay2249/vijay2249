@@ -15,7 +15,7 @@ Nothing in particular, just going on and on and on.
 * 🌍  I'm based in Unknown Access
 * 🖥️  See my portfolio at [V1ZEI](http://vijay2249.github.io)
 * ✉️  You can contact me at [vijaychowdary3699@gmail.com](mailto:vijaychowdary3699@gmail.com)
-* 🧠  I'm learning ML | ReactJs | Network Security | Cryptography
+* 🧠  I'm learning ReactJs | Network Security | Cryptography | Php | Bash
 * 🤝  I'm open to collaborating on Web Dev projects | Security
 * ⚡  I am one of the 2 SHADOW'S
 
