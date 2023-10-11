@@ -81,6 +81,7 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Test](https://dev.to/vijay2249/test-30l)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 Latest YouTube Videos
