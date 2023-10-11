@@ -43,20 +43,21 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 ### :hammer_and_wrench: Languages :
 <!-- TOOLS AND LANGUAGES -->
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPP" alt="CPP" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux"  alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPP" alt="CPP" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux"  alt="Linux" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="50" height="50"/>&nbsp;
 
   <!-- <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/js-icon.svg" alt="Javascript Icon" /> -->
 </div>
@@ -79,14 +80,15 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 ### :writing_hand: Blog Posts :
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Lx2YXsdDoDY"><img width="140px" src="http://img.youtube.com/vi/Lx2YXsdDoDY/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Lx2YXsdDoDY">The cyberCTF 0x17 Walkthrough | @ExplainLikeNoob  | TheCyberWorld | tryhackme</a><br/>Mar 27, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Oo0J5qtqAGU"><img width="140px" src="http://img.youtube.com/vi/Oo0J5qtqAGU/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Oo0J5qtqAGU">The cyberCTF 0x19 Walkthrough | @ExplainLikeNoob  | @thecyberworld | tryhackme</a><br/>Mar 26, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=KQPk7Cl90_o"><img width="140px" src="http://img.youtube.com/vi/KQPk7Cl90_o/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=KQPk7Cl90_o">The cyberCTF 0x16 Walkthrough | @ExplainLikeNoob  | @thecyberworld | tryhackme</a><br/>Feb 5, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=_I3J1-gv8uc"><img width="140px" src="http://img.youtube.com/vi/_I3J1-gv8uc/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=_I3J1-gv8uc">The cyberCTF 0x14 ctf room walkthrough | tryhackme | @thecyberworld</a><br/>Jan 26, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=8XVV3715uYE"><img width="140px" src="http://img.youtube.com/vi/8XVV3715uYE/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=8XVV3715uYE">Little Fun with YOLOv7</a><br/>Jan 25, 2023</td></tr></table>
+<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+### 📺 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+### ⚡ Recent GitHub Activity
+
+<br/>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
