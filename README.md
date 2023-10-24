@@ -84,6 +84,8 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [GRUB. what is it?](https://dev.to/vijay2249/grub-what-is-it-448p)
+- [Test](https://dev.to/vijay2249/test-30l)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 Latest YouTube Videos
