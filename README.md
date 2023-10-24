@@ -12,8 +12,11 @@
     <a href="https://twitter.com/VijayCh0710">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
+    <a href="https://dev.to/vijay2249">
+      <img src="https://img.shields.io/badge/DevTo-green?style=for-the-badge&logo=devdotto&logoColor=white" alt="DevTo Badge"/>
+    </a>
     <a href="https://in.linkedin.com/in/vijay-chowdary-nelakurthi">
-      <img src="https://img.shields.io/badge/LinkedIn-green?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
 
@@ -30,7 +33,7 @@
 ---
 
 ### :artist: About Me :
-I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications using Spring and SpringBoot
 
@@ -81,20 +84,18 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Test](https://dev.to/vijay2249/test-30l)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 Latest YouTube Videos
+
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
 ### ⚡ Recent GitHub Activity
 
-<br/>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/vijay2249/Docker-playground/pull/16) in [vijay2249/Docker-playground](https://github.com/vijay2249/Docker-playground)
-2. 🎉 Merged PR [#5](https://github.com/vijay2249/portfolio1/pull/5) in [vijay2249/portfolio1](https://github.com/vijay2249/portfolio1)
-3. 💪 Opened PR [#35](https://github.com/thecyberworld/TheCyberX/pull/35) in [thecyberworld/TheCyberX](https://github.com/thecyberworld/TheCyberX)
-4. 🗣 Commented on [#16](https://github.com/thecyberworld/TheCyberX/issues/16#issuecomment-1747197015) in [thecyberworld/TheCyberX](https://github.com/thecyberworld/TheCyberX)
-5. 🗣 Commented on [#16](https://github.com/thecyberworld/TheCyberX/issues/16#issuecomment-1742528838) in [thecyberworld/TheCyberX](https://github.com/thecyberworld/TheCyberX)
 <!--END_SECTION:activity-->
+
+<br/>
+<br/>
+<a href="https://www.buymeacoffee.com/VijayHCN" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>

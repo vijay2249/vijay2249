@@ -2,6 +2,7 @@ name: Update README
 
 on:
   schedule:
+    # At 12:00am everyday
     - cron: "0 0 * * *"
   workflow_dispatch:
 

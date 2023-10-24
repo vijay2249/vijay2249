@@ -1,7 +1,7 @@
 name: Latest blog post workflow
 on:
   schedule:
-    # Runs every hour
+    # At 12:00am on Sunday
     - cron: '0 0 * * 0'
   workflow_dispatch:
 
@@ -14,4 +14,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "4"
-          feed_list: " https://dev.to/feed/vijay2249"
+          feed_list: " https://dev.to/feed/vijay2249,https://medium.com/feed/@vijay2249"
+          commit_message: "Updated with latest blog-posts"
