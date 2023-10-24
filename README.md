@@ -103,6 +103,11 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+1. ❗ Opened issue [#1931](https://github.com/devicons/devicon/issues/1931) in [devicons/devicon](https://github.com/devicons/devicon)
+2. 🎉 Merged PR [#16](https://github.com/vijay2249/Docker-playground/pull/16) in [vijay2249/Docker-playground](https://github.com/vijay2249/Docker-playground)
+3. 🎉 Merged PR [#5](https://github.com/vijay2249/portfolio1/pull/5) in [vijay2249/portfolio1](https://github.com/vijay2249/portfolio1)
+4. 💪 Opened PR [#35](https://github.com/thecyberworld/TheCyberX/pull/35) in [thecyberworld/TheCyberX](https://github.com/thecyberworld/TheCyberX)
+5. 🗣 Commented on [#16](https://github.com/thecyberworld/TheCyberX/issues/16#issuecomment-1747197015) in [thecyberworld/TheCyberX](https://github.com/thecyberworld/TheCyberX)
 <!--END_SECTION:activity-->
 
 <br/>
