@@ -14,5 +14,6 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "4"
+          comment_tag_name: "BLOG-POST-LIST"
           feed_list: " https://dev.to/feed/vijay2249,https://medium.com/feed/@vijay2249"
           commit_message: "Updated with latest blog-posts"
