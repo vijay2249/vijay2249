@@ -98,8 +98,10 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-- [GRUB. what is it?](https://dev.to/vijay2249/grub-what-is-it-448p)
-- [Test](https://dev.to/vijay2249/test-30l)
+- [Continuous Integration - GitHub Actions](https://dev.to/vijay2249/continuous-integration-github-actions-4goa)
+- [Servlets &amp; Filters - SpringSecurity](https://dev.to/vijay2249/servlets-filters-springsecurity-2ocd)
+- [Intro to GITHUB ACTIONS](https://dev.to/vijay2249/intro-to-github-actions-2ce)
+- [Testing with auto push and publishing](https://dev.to/vijay2249/testing-with-auto-push-and-publishing-55mc)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡ Recent GitHub Activity
