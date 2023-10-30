@@ -107,11 +107,11 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/vijay2249/github-actions-playground/pull/1) in [vijay2249/github-actions-playground](https://github.com/vijay2249/github-actions-playground)
-2. 💪 Opened PR [#1](https://github.com/vijay2249/github-actions-playground/pull/1) in [vijay2249/github-actions-playground](https://github.com/vijay2249/github-actions-playground)
-3. 🎉 Merged PR [#4](https://github.com/vijay2249/nextjs-from-docs/pull/4) in [vijay2249/nextjs-from-docs](https://github.com/vijay2249/nextjs-from-docs)
-4. 🎉 Merged PR [#2](https://github.com/vijay2249/nextjs-from-docs/pull/2) in [vijay2249/nextjs-from-docs](https://github.com/vijay2249/nextjs-from-docs)
-5. ❗ Opened issue [#1](https://github.com/github-craftwork/sandbox-vijay2249/issues/1) in [github-craftwork/sandbox-vijay2249](https://github.com/github-craftwork/sandbox-vijay2249)
+1. 🎉 Merged PR [#2](https://github.com/vijay2249/github-actions-playground/pull/2) in [vijay2249/github-actions-playground](https://github.com/vijay2249/github-actions-playground)
+2. 💪 Opened PR [#2](https://github.com/vijay2249/github-actions-playground/pull/2) in [vijay2249/github-actions-playground](https://github.com/vijay2249/github-actions-playground)
+3. 🎉 Merged PR [#1](https://github.com/vijay2249/github-actions-playground/pull/1) in [vijay2249/github-actions-playground](https://github.com/vijay2249/github-actions-playground)
+4. 💪 Opened PR [#1](https://github.com/vijay2249/github-actions-playground/pull/1) in [vijay2249/github-actions-playground](https://github.com/vijay2249/github-actions-playground)
+5. 🎉 Merged PR [#4](https://github.com/vijay2249/nextjs-from-docs/pull/4) in [vijay2249/nextjs-from-docs](https://github.com/vijay2249/nextjs-from-docs)
 <!--END_SECTION:activity-->
 
 <br/>
