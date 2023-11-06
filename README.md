@@ -107,11 +107,11 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/vijay2249/github-actions-playground/pull/2) in [vijay2249/github-actions-playground](https://github.com/vijay2249/github-actions-playground)
-2. 💪 Opened PR [#2](https://github.com/vijay2249/github-actions-playground/pull/2) in [vijay2249/github-actions-playground](https://github.com/vijay2249/github-actions-playground)
-3. 🎉 Merged PR [#1](https://github.com/vijay2249/github-actions-playground/pull/1) in [vijay2249/github-actions-playground](https://github.com/vijay2249/github-actions-playground)
-4. 💪 Opened PR [#1](https://github.com/vijay2249/github-actions-playground/pull/1) in [vijay2249/github-actions-playground](https://github.com/vijay2249/github-actions-playground)
-5. 🎉 Merged PR [#4](https://github.com/vijay2249/nextjs-from-docs/pull/4) in [vijay2249/nextjs-from-docs](https://github.com/vijay2249/nextjs-from-docs)
+1. 🗣 Commented on [#692](https://github.com/open-domains/register/pull/692#issuecomment-1793755792) in [open-domains/register](https://github.com/open-domains/register)
+2. 🗣 Commented on [#692](https://github.com/open-domains/register/pull/692#issuecomment-1793755104) in [open-domains/register](https://github.com/open-domains/register)
+3. 💪 Opened PR [#692](https://github.com/open-domains/register/pull/692) in [open-domains/register](https://github.com/open-domains/register)
+4. 🎉 Merged PR [#2](https://github.com/vijay2249/github-actions-playground/pull/2) in [vijay2249/github-actions-playground](https://github.com/vijay2249/github-actions-playground)
+5. 💪 Opened PR [#2](https://github.com/vijay2249/github-actions-playground/pull/2) in [vijay2249/github-actions-playground](https://github.com/vijay2249/github-actions-playground)
 <!--END_SECTION:activity-->
 
 <br/>
