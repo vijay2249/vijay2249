@@ -107,11 +107,11 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#692](https://github.com/open-domains/register/pull/692#issuecomment-1794651112) in [open-domains/register](https://github.com/open-domains/register)
-2. 🗣 Commented on [#692](https://github.com/open-domains/register/pull/692#issuecomment-1793755792) in [open-domains/register](https://github.com/open-domains/register)
-3. 🗣 Commented on [#692](https://github.com/open-domains/register/pull/692#issuecomment-1793755104) in [open-domains/register](https://github.com/open-domains/register)
-4. 💪 Opened PR [#692](https://github.com/open-domains/register/pull/692) in [open-domains/register](https://github.com/open-domains/register)
-5. 🎉 Merged PR [#2](https://github.com/vijay2249/github-actions-playground/pull/2) in [vijay2249/github-actions-playground](https://github.com/vijay2249/github-actions-playground)
+1. ❗ Opened issue [#702](https://github.com/open-domains/register/issues/702) in [open-domains/register](https://github.com/open-domains/register)
+2. 🗣 Commented on [#692](https://github.com/open-domains/register/pull/692#issuecomment-1794651112) in [open-domains/register](https://github.com/open-domains/register)
+3. 🗣 Commented on [#692](https://github.com/open-domains/register/pull/692#issuecomment-1793755792) in [open-domains/register](https://github.com/open-domains/register)
+4. 🗣 Commented on [#692](https://github.com/open-domains/register/pull/692#issuecomment-1793755104) in [open-domains/register](https://github.com/open-domains/register)
+5. 💪 Opened PR [#692](https://github.com/open-domains/register/pull/692) in [open-domains/register](https://github.com/open-domains/register)
 <!--END_SECTION:activity-->
 
 <br/>
