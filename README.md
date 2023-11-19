@@ -82,16 +82,16 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ### 📺 Latest YouTube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=cAEQfcCbBo0"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=N3uSM_YdCvA"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=N3uSM_YdCvA">Lay down in the Rain</a><br/>Nov 17, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=cAEQfcCbBo0"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=cAEQfcCbBo0">Stating Random Facts | CoachBeard Jr</a><br/>Oct 12, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Lx2YXsdDoDY"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Lx2YXsdDoDY">The cyberCTF 0x17 Walkthrough | @ExplainLikeNoob  | TheCyberWorld | tryhackme</a><br/>Mar 27, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=Lx2YXsdDoDY">The cyberCTF 0x17 Walkthrough | @CoachBeardJr  | TheCyberWorld | tryhackme</a><br/>Mar 27, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Oo0J5qtqAGU"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Oo0J5qtqAGU">The cyberCTF 0x19 Walkthrough | @ExplainLikeNoob  | @thecyberworld | tryhackme</a><br/>Mar 26, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=Oo0J5qtqAGU">The cyberCTF 0x19 Walkthrough | @CoachBeardJr  | @thecyberworld | tryhackme</a><br/>Mar 26, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=KQPk7Cl90_o"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=KQPk7Cl90_o">The cyberCTF 0x16 Walkthrough | @ExplainLikeNoob  | @thecyberworld | tryhackme</a><br/>Feb 5, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=_I3J1-gv8uc"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=_I3J1-gv8uc">The cyberCTF 0x14 ctf room walkthrough | tryhackme | @thecyberworld</a><br/>Jan 26, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=KQPk7Cl90_o">The cyberCTF 0x16 Walkthrough | @CoachBeardJr  | @thecyberworld | tryhackme</a><br/>Feb 5, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 
