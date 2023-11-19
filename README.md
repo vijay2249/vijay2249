@@ -98,6 +98,9 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Automate Windows Theme Changes Based on Time with a Batch Script](https://vijay2249.medium.com/automate-windows-theme-changes-based-on-time-with-a-batch-script-eda9889b02ea?source=rss-64d9425b14f4------2)
+- [Automate Windows Theme Changes Based on Time with a Batch Script](https://dev.to/vijay2249/automate-windows-theme-changes-based-on-time-with-a-batch-script-57li)
+- [Digital Certificates in Communication - What are THOSE???](https://dev.to/vijay2249/digital-certificates-in-communication-what-are-those-3673)
 - [What are the different types of DNS records, and what are their specific purposes?](https://dev.to/vijay2249/what-are-the-different-types-of-dns-records-and-what-are-their-specific-purposes-3ef4)
 - [Auto Publish/Release - GitHub Actions](https://dev.to/vijay2249/auto-publishrelease-github-actions-a29)
 - [Continuous Integration - GitHub Actions](https://dev.to/vijay2249/continuous-integration-github-actions-4goa)
