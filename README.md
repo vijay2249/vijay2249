@@ -110,11 +110,11 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/vijay2249/BoringNotes/pull/5) in [vijay2249/BoringNotes](https://github.com/vijay2249/BoringNotes)
-2. 💪 Opened PR [#5](https://github.com/vijay2249/BoringNotes/pull/5) in [vijay2249/BoringNotes](https://github.com/vijay2249/BoringNotes)
-3. 🎉 Merged PR [#4](https://github.com/vijay2249/BoringNotes/pull/4) in [vijay2249/BoringNotes](https://github.com/vijay2249/BoringNotes)
-4. 💪 Opened PR [#4](https://github.com/vijay2249/BoringNotes/pull/4) in [vijay2249/BoringNotes](https://github.com/vijay2249/BoringNotes)
-5. 🗣 Commented on [#702](https://github.com/open-domains/register/issues/702#issuecomment-1810301141) in [open-domains/register](https://github.com/open-domains/register)
+1. 🗣 Commented on [#3](https://github.com/kistek/boss-demo/issues/3#issuecomment-1824322544) in [kistek/boss-demo](https://github.com/kistek/boss-demo)
+2. 🎉 Merged PR [#5](https://github.com/vijay2249/BoringNotes/pull/5) in [vijay2249/BoringNotes](https://github.com/vijay2249/BoringNotes)
+3. 💪 Opened PR [#5](https://github.com/vijay2249/BoringNotes/pull/5) in [vijay2249/BoringNotes](https://github.com/vijay2249/BoringNotes)
+4. 🎉 Merged PR [#4](https://github.com/vijay2249/BoringNotes/pull/4) in [vijay2249/BoringNotes](https://github.com/vijay2249/BoringNotes)
+5. 💪 Opened PR [#4](https://github.com/vijay2249/BoringNotes/pull/4) in [vijay2249/BoringNotes](https://github.com/vijay2249/BoringNotes)
 <!--END_SECTION:activity-->
 
 <br/>
