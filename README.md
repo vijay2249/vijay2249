@@ -15,9 +15,6 @@
     <a href="https://dev.to/vijay2249">
       <img src="https://img.shields.io/badge/DevTo-green?style=for-the-badge&logo=devdotto&logoColor=white" alt="DevTo Badge"/>
     </a>
-    <a href="https://in.linkedin.com/in/vijay-chowdary-nelakurthi">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
   </div>
 
   <!-- PROFILE COUNT -->
