@@ -107,10 +107,10 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13576](https://github.com/microsoft/playwright/issues/13576#issuecomment-1936049929) in [microsoft/playwright](https://github.com/microsoft/playwright)
-2. 🎉 Merged PR [#17](https://github.com/vijay2249/Docker-playground/pull/17) in [vijay2249/Docker-playground](https://github.com/vijay2249/Docker-playground)
-3. 🗣 Commented on [#34820](https://github.com/brave/brave-browser/issues/34820#issuecomment-1870787948) in [brave/brave-browser](https://github.com/brave/brave-browser)
-4. ❗ Opened issue [#34820](https://github.com/brave/brave-browser/issues/34820) in [brave/brave-browser](https://github.com/brave/brave-browser)
+1. ❗ Opened issue [#36799](https://github.com/brave/brave-browser/issues/36799) in [brave/brave-browser](https://github.com/brave/brave-browser)
+2. 🗣 Commented on [#13576](https://github.com/microsoft/playwright/issues/13576#issuecomment-1936049929) in [microsoft/playwright](https://github.com/microsoft/playwright)
+3. 🎉 Merged PR [#17](https://github.com/vijay2249/Docker-playground/pull/17) in [vijay2249/Docker-playground](https://github.com/vijay2249/Docker-playground)
+4. 🗣 Commented on [#34820](https://github.com/brave/brave-browser/issues/34820#issuecomment-1870787948) in [brave/brave-browser](https://github.com/brave/brave-browser)
 5. 🗣 Commented on [#3](https://github.com/kistek/boss-demo/issues/3#issuecomment-1824322544) in [kistek/boss-demo](https://github.com/kistek/boss-demo)
 <!--END_SECTION:activity-->
 
