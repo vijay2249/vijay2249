@@ -107,11 +107,11 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/vijay2249/RoboFriends/pull/1) in [vijay2249/RoboFriends](https://github.com/vijay2249/RoboFriends)
-2. ❗ Opened issue [#36799](https://github.com/brave/brave-browser/issues/36799) in [brave/brave-browser](https://github.com/brave/brave-browser)
-3. 🗣 Commented on [#13576](https://github.com/microsoft/playwright/issues/13576#issuecomment-1936049929) in [microsoft/playwright](https://github.com/microsoft/playwright)
-4. 🗣 Commented on [#34820](https://github.com/brave/brave-browser/issues/34820#issuecomment-1870787948) in [brave/brave-browser](https://github.com/brave/brave-browser)
-5. 🗣 Commented on [#3](https://github.com/kistek/boss-demo/issues/3#issuecomment-1824322544) in [kistek/boss-demo](https://github.com/kistek/boss-demo)
+1. 🎉 Merged PR [#12](https://github.com/vijay2249/RoboFriends/pull/12) in [vijay2249/RoboFriends](https://github.com/vijay2249/RoboFriends)
+2. 🎉 Merged PR [#13](https://github.com/vijay2249/RoboFriends/pull/13) in [vijay2249/RoboFriends](https://github.com/vijay2249/RoboFriends)
+3. 🎉 Merged PR [#11](https://github.com/vijay2249/RoboFriends/pull/11) in [vijay2249/RoboFriends](https://github.com/vijay2249/RoboFriends)
+4. 🎉 Merged PR [#1](https://github.com/vijay2249/RoboFriends/pull/1) in [vijay2249/RoboFriends](https://github.com/vijay2249/RoboFriends)
+5. ❗ Opened issue [#36799](https://github.com/brave/brave-browser/issues/36799) in [brave/brave-browser](https://github.com/brave/brave-browser)
 <!--END_SECTION:activity-->
 
 <br/>
