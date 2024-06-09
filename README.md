@@ -61,4 +61,4 @@ Nothing in particular, just going on and on and on.
 <a href="https://www.buymeacoffee.com/VijayHCN"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 
-<script src="https://tryhackme.com/badge/2193622"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/HomelyRunaway.png" alt="TryHackMe">
