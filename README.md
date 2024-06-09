@@ -34,7 +34,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications using Spring and SpringBoot
 
-- :seedling: Exploring Networking | Bun 
+- :seedling: Exploring Networking | DSA | Linux | AWS 
 
 - :zap: In my free time, I learn Networking | CTFs | and read tech articles.
 
@@ -130,3 +130,7 @@ This is my free time work. Just a time pass thing.
   <img width="48" height="48" src="https://img.icons8.com/color/48/bandlab.png" alt="bandlab"/>
 </a>
 <br/>
+
+
+<h2>Security learnings</h2>
+<img src="https://tryhackme-badges.s3.amazonaws.com/HomelyRunaway.png" alt="TryHackMe">
