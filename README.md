@@ -81,7 +81,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 Organization where along with [@iredith](https://github.com/iredith), publish projects and try to make an idea work and keeping it open source just because it is possible.
 
 #### Recent Work
-Published Maven package [potential-umbrella](https://github.com/WeDontTrack/potential-umbrella/packages/2191698) to add some extra features while running wiremock
+Published Maven package [maximock](https://github.com/WeDontTrack/maximock/packages/2192655) to add some extra features while running wiremock
 
 <br/><hr>
 
