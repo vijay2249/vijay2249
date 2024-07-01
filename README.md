@@ -115,11 +115,11 @@ Published Maven package [potential-umbrella](https://github.com/WeDontTrack/pote
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/vijay2249/profile/pull/1) in [vijay2249/profile](https://github.com/vijay2249/profile)
-2. 🎉 Merged PR [#22](https://github.com/vijay2249/Docker-playground/pull/22) in [vijay2249/Docker-playground](https://github.com/vijay2249/Docker-playground)
-3. 🎉 Merged PR [#12](https://github.com/vijay2249/RoboFriends/pull/12) in [vijay2249/RoboFriends](https://github.com/vijay2249/RoboFriends)
-4. 🎉 Merged PR [#13](https://github.com/vijay2249/RoboFriends/pull/13) in [vijay2249/RoboFriends](https://github.com/vijay2249/RoboFriends)
-5. 🎉 Merged PR [#11](https://github.com/vijay2249/RoboFriends/pull/11) in [vijay2249/RoboFriends](https://github.com/vijay2249/RoboFriends)
+1. 🎉 Merged PR [#5](https://github.com/vijay2249/nextjs-playground/pull/5) in [vijay2249/nextjs-playground](https://github.com/vijay2249/nextjs-playground)
+2. 🎉 Merged PR [#1](https://github.com/vijay2249/nextjs-playground/pull/1) in [vijay2249/nextjs-playground](https://github.com/vijay2249/nextjs-playground)
+3. 🎉 Merged PR [#2](https://github.com/vijay2249/nextjs-playground/pull/2) in [vijay2249/nextjs-playground](https://github.com/vijay2249/nextjs-playground)
+4. 🎉 Merged PR [#4](https://github.com/vijay2249/nextjs-playground/pull/4) in [vijay2249/nextjs-playground](https://github.com/vijay2249/nextjs-playground)
+5. 🎉 Merged PR [#24](https://github.com/vijay2249/Docker-playground/pull/24) in [vijay2249/Docker-playground](https://github.com/vijay2249/Docker-playground)
 <!--END_SECTION:activity-->
 
 <br/>
