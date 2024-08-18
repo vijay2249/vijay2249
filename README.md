@@ -115,11 +115,11 @@ Published Maven package [maximock](https://github.com/WeDontTrack/maximock/packa
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/WeDontTrack/maximock/issues/1) in [WeDontTrack/maximock](https://github.com/WeDontTrack/maximock)
-2. 🎉 Merged PR [#2](https://github.com/WeDontTrack/maximock/pull/2) in [WeDontTrack/maximock](https://github.com/WeDontTrack/maximock)
-3. 💪 Opened PR [#2](https://github.com/WeDontTrack/maximock/pull/2) in [WeDontTrack/maximock](https://github.com/WeDontTrack/maximock)
-4. ❗ Opened issue [#1](https://github.com/WeDontTrack/maximock/issues/1) in [WeDontTrack/maximock](https://github.com/WeDontTrack/maximock)
-5. 🎉 Merged PR [#3](https://github.com/vijay2249/nextjs-playground/pull/3) in [vijay2249/nextjs-playground](https://github.com/vijay2249/nextjs-playground)
+1. 💪 Opened PR [#3273](https://github.com/zero-to-mastery/ZtM-Job-Board/pull/3273) in [zero-to-mastery/ZtM-Job-Board](https://github.com/zero-to-mastery/ZtM-Job-Board)
+2. 🔒 Closed issue [#1](https://github.com/WeDontTrack/maximock/issues/1) in [WeDontTrack/maximock](https://github.com/WeDontTrack/maximock)
+3. 🎉 Merged PR [#2](https://github.com/WeDontTrack/maximock/pull/2) in [WeDontTrack/maximock](https://github.com/WeDontTrack/maximock)
+4. 💪 Opened PR [#2](https://github.com/WeDontTrack/maximock/pull/2) in [WeDontTrack/maximock](https://github.com/WeDontTrack/maximock)
+5. ❗ Opened issue [#1](https://github.com/WeDontTrack/maximock/issues/1) in [WeDontTrack/maximock](https://github.com/WeDontTrack/maximock)
 <!--END_SECTION:activity-->
 
 <br/>
