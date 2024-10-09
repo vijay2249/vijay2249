@@ -139,7 +139,3 @@ This is my free time work. Just a time pass thing.
   <img width="48" height="48" src="https://img.icons8.com/color/48/bandlab.png" alt="bandlab"/>
 </a>
 <br/>
-
-<h2>Security learnings</h2>
-<img src="https://tryhackme-badges.s3.amazonaws.com/HomelyRunaway.png" alt="TryHackMe Profile">
-
