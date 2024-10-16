@@ -95,9 +95,9 @@ Published Maven package [maximock](https://github.com/WeDontTrack/maximock/packa
 <table><tr><td><a href="https://www.youtube.com/watch?v=Lx2YXsdDoDY"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Lx2YXsdDoDY">The cyberCTF 0x17 Walkthrough | @CoachBeardJr  | TheCyberWorld | tryhackme</a><br/>Mar 27, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Oo0J5qtqAGU"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Oo0J5qtqAGU">The cyberCTF 0x19 Walkthrough | @CoachBeardJr  | @thecyberworld | tryhackme</a><br/>Mar 26, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=Oo0J5qtqAGU">The cyberCTF 0x19 Walkthrough | @CoachBeardJr  | @th3cyb3rhub | tryhackme</a><br/>Mar 26, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=KQPk7Cl90_o"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=KQPk7Cl90_o">The cyberCTF 0x16 Walkthrough | @CoachBeardJr  | @thecyberworld | tryhackme</a><br/>Feb 5, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=KQPk7Cl90_o">The cyberCTF 0x16 Walkthrough | @CoachBeardJr  | @th3cyb3rhub | tryhackme</a><br/>Feb 5, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 
