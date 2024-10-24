@@ -1,8 +1,14 @@
+### :artist: About Me :
+I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications using Spring and SpringBoot
+- :seedling: Exploring Networking | DSA | Linux | AWS
+- :zap: In my free time, I learn Networking | CTFs | and read tech articles.
+<br/><hr>
+
+
+
+
 <div align="center">
-  <div id="header" align="center">
-    <img src="https://media1.giphy.com/media/zbMRZx113HKBkeCwrm/giphy.gif" width="300"/>
-  </div>
-  <hr/>
 
   <!-- SOCIAL MEDIA ACCOUNTS -->
   <div id="badges" align="center">
@@ -29,16 +35,7 @@
 
 ---
 
-### :artist: About Me :
-I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications using Spring and SpringBoot
-
-- :seedling: Exploring Networking | DSA | Linux | AWS 
-
-- :zap: In my free time, I learn Networking | CTFs | and read tech articles.
-
-<br/><hr>
 
 ### :hammer_and_wrench: Languages :
 <!-- TOOLS AND LANGUAGES -->
