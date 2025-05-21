@@ -113,9 +113,9 @@ Published Maven package [maximock](https://github.com/WeDontTrack/maximock/packa
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/vijay2249/github-actions-playground/pull/3) in [vijay2249/github-actions-playground](https://github.com/vijay2249/github-actions-playground)
-2. 🎉 Merged PR [#24](https://github.com/vijay2249/RoboFriends/pull/24) in [vijay2249/RoboFriends](https://github.com/vijay2249/RoboFriends)
-3. 🎉 Merged PR [#46](https://github.com/vijay2249/Docker-playground/pull/46) in [vijay2249/Docker-playground](https://github.com/vijay2249/Docker-playground)
+1. ❗ Opened issue [#3](https://github.com/vijay2249/vproxie/issues/3) in [vijay2249/vproxie](https://github.com/vijay2249/vproxie)
+2. ❗ Opened issue [#2](https://github.com/vijay2249/vproxie/issues/2) in [vijay2249/vproxie](https://github.com/vijay2249/vproxie)
+3. 🎉 Merged PR [#3](https://github.com/vijay2249/github-actions-playground/pull/3) in [vijay2249/github-actions-playground](https://github.com/vijay2249/github-actions-playground)
 4. 🎉 Merged PR [#11](https://github.com/vijay2249/nextjs-playground/pull/11) in [vijay2249/nextjs-playground](https://github.com/vijay2249/nextjs-playground)
 5. 🎉 Merged PR [#23](https://github.com/vijay2249/RoboFriends/pull/23) in [vijay2249/RoboFriends](https://github.com/vijay2249/RoboFriends)
 <!--END_SECTION:activity-->
