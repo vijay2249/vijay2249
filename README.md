@@ -85,8 +85,8 @@ Published Maven package [maximock](https://github.com/WeDontTrack/maximock/packa
 
 ### 📺 Latest YouTube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=N3uSM_YdCvA"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=N3uSM_YdCvA">Lay down in the Rain</a><br/>Nov 17, 2023</td></tr></table>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/N3uSM_YdCvA"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/N3uSM_YdCvA">Lay down in the Rain</a><br/>Nov 17, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=cAEQfcCbBo0"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=cAEQfcCbBo0">Stating Random Facts | CoachBeard Jr</a><br/>Oct 12, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Lx2YXsdDoDY"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>
