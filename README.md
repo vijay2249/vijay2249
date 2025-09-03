@@ -85,7 +85,9 @@ Published Maven package [maximock](https://github.com/WeDontTrack/maximock/packa
 
 ### 📺 Latest YouTube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=RzzMoJ74UAI"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=YsbnKWzI7lU"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=YsbnKWzI7lU">SHERJIL SPORTS PUNE vs Game Changers Live Cricket Match | RAINCOAT PRESENT T22 SEASON 3 Live - Vira</a><br/>Sep 1, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=RzzMoJ74UAI"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=RzzMoJ74UAI">Game Changers vs CRICKET GLADIATOR CLUB &lpar;CGC&rpar; Live Cricket Match | RAINCOAT PRESENT T22 SEASON 3 Li</a><br/>Aug 31, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/N3uSM_YdCvA"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/N3uSM_YdCvA">Lay down in the Rain</a><br/>Nov 17, 2023</td></tr></table>
@@ -93,8 +95,6 @@ Published Maven package [maximock](https://github.com/WeDontTrack/maximock/packa
 <td><a href="https://www.youtube.com/watch?v=cAEQfcCbBo0">Stating Random Facts | CoachBeard Jr</a><br/>Oct 12, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Lx2YXsdDoDY"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Lx2YXsdDoDY">The cyberCTF 0x17 Walkthrough | @CoachBeardJr  | TheCyberWorld | tryhackme</a><br/>Mar 27, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Oo0J5qtqAGU"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Oo0J5qtqAGU">The cyberCTF 0x19 Walkthrough | @CoachBeardJr  | @th3cyb3rhub | tryhackme</a><br/>Mar 26, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 
