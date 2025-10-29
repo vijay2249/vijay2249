@@ -83,21 +83,6 @@ Published Maven package [maximock](https://github.com/WeDontTrack/maximock/packa
 
 <br/><hr>
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=pT0m-O0uR1M"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=pT0m-O0uR1M">Game Changers vs Mighty Stars Live Cricket Match | WINTER CUP 1.0 Live - Rajgad Sports Academy Awha</a><br/>Oct 26, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=yMxqDcMRHow"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=yMxqDcMRHow">Arch Elites vs Game Changers Live Cricket Match | Individual Live - Sportsage Cricket Ground Pune</a><br/>Oct 19, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=ESEIUcCo9Xw"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ESEIUcCo9Xw">Live Cricket Match | WINTER CUP 1.0 Live - Pune Cricket Club, Wagholi Pune</a><br/>Oct 18, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=i4LB0nr7-OI"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=i4LB0nr7-OI">Battu Bhaktulu vs Relangi Mamaya Varasulam Live Cricket Match | KPL Practice Match  Live - Kings Sp</a><br/>Sep 6, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=YsbnKWzI7lU"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=YsbnKWzI7lU">SHERJIL SPORTS PUNE vs Game Changers Live Cricket Match | RAINCOAT PRESENT T22 SEASON 3 Live - Vira</a><br/>Sep 1, 2025</td></tr></table>
-<!-- YOUTUBE:END -->
-
-
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
