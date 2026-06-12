@@ -15,9 +15,6 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
     <a href="https://youtube.com/@CoachBeardJr">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
-    <a href="https://twitter.com/VijayCh0710">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
     <a href="https://dev.to/vijay2249">
       <img src="https://img.shields.io/badge/DevTo-green?style=for-the-badge&logo=devdotto&logoColor=white" alt="DevTo Badge"/>
     </a>
