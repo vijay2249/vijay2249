@@ -98,11 +98,11 @@ Published Maven package [maximock](https://github.com/WeDontTrack/maximock/packa
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/vijay2249/github-actions-playground/pull/4) in [vijay2249/github-actions-playground](https://github.com/vijay2249/github-actions-playground)
-2. ❌ Closed PR [#6](https://github.com/vijay2249/fy-project-centroids-reid/pull/6) in [vijay2249/fy-project-centroids-reid](https://github.com/vijay2249/fy-project-centroids-reid)
-3. 🎉 Merged PR [#11](https://github.com/vijay2249/profile/pull/11) in [vijay2249/profile](https://github.com/vijay2249/profile)
-4. 🎉 Merged PR [#12](https://github.com/vijay2249/profile/pull/12) in [vijay2249/profile](https://github.com/vijay2249/profile)
-5. 🎉 Merged PR [#14](https://github.com/vijay2249/nextjs-playground/pull/14) in [vijay2249/nextjs-playground](https://github.com/vijay2249/nextjs-playground)
+1. ❌ Closed PR [#12](https://github.com/adrianhajdin/portfolio_website/pull/12) in [adrianhajdin/portfolio_website](https://github.com/adrianhajdin/portfolio_website)
+2. 🔒 Closed issue [#1](https://github.com/github-craftwork/sandbox-vijay2249/issues/1) in [github-craftwork/sandbox-vijay2249](https://github.com/github-craftwork/sandbox-vijay2249)
+3. 🔒 Closed issue [#780](https://github.com/SmartBear/soapui/issues/780) in [SmartBear/soapui](https://github.com/SmartBear/soapui)
+4. 🔒 Closed issue [#726](https://github.com/ronreiter/interactive-tutorials/issues/726) in [ronreiter/interactive-tutorials](https://github.com/ronreiter/interactive-tutorials)
+5. 🔒 Closed issue [#1219](https://github.com/pywinauto/pywinauto/issues/1219) in [pywinauto/pywinauto](https://github.com/pywinauto/pywinauto)
 <!--END_SECTION:activity-->
 
 <br/>
