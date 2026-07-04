@@ -1,119 +1,50 @@
-### :artist: About Me :
-I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications using Spring and SpringBoot
-- :seedling: Exploring Networking | DSA | Linux | AWS
-- :zap: In my free time, I learn Networking | CTFs | and read tech articles.
-<br/><hr>
+## Hi there, I'm Vijay Nelakurthi 👋
 
+Software Engineer & AI Platform Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> building highly scalable backend systems, privacy-first infrastructure, and AI-driven internal developer tools (DevEx).
 
+### 🛠️ Core Tech Stack
+- **Languages**: Java, Go, Python, TypeScript, JavaScript <br/>
+- **Backend & Cloud**: Spring Boot, Microservices, Kubernetes, Docker, OpenShift, AWS <br/>
+- **Data & Testing**: MongoDB, Couchbase, TestNG, Playwright, JUnit
 
+## 🚀 Featured High-Signal Projects
+_Here is a look at the infrastructure and DevEx tools I am building to solve enterprise-scale challenges:_
 
-<div align="center">
+### Vproxie
+A direction-aware, privacy-first reverse proxy written in Go. Implements a strict deny-then-allow model for metadata and header routing, ensuring zero data leakage across network boundaries.
 
-  <!-- SOCIAL MEDIA ACCOUNTS -->
-  <div id="badges" align="center">
-    <a href="https://youtube.com/@CoachBeardJr">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    </a>
-    <a href="https://dev.to/vijay2249">
-      <img src="https://img.shields.io/badge/DevTo-green?style=for-the-badge&logo=devdotto&logoColor=white" alt="DevTo Badge"/>
-    </a>
-  </div>
+Repo: https://github.com/vijay2249/vproxie
 
-  <!-- PROFILE COUNT -->
-  <img src="https://komarev.com/ghpvc/?username=vijay2249&style=flat-round&color=blue" alt="profile-counter"/>
+### Auto Flow View
+A TypeScript/Java IDE extension (Cursor/VSCode) that generates real-time visual dependency graphs for TestNG automation flows, instantly identifying parallel execution opportunities across massive codebases.
 
-  <hr/>
+Repo: https://github.com/WeDontTrack/AutoFlowView <br/>
+Technical writeup: https://vijay2249.github.io/projects/auto-flow-view/
 
-  <div align="center">
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-  </div>
-</div>
+### Code Insights
+A local-first IDE extension running SonarQube rules and JaCoCo coverage completely offline. Eliminates server round-trips to drastically accelerate bug resolution.
+
+Link: https://vijay2249.github.io/projects/code-insights/
+
+### swagger-view
+A zero-callback, offline-capable OpenAPI renderer. Optimized to parse and visualize massive telecom-grade YAML files locally, guaranteeing internal API privacy.
+
+Repo: https://github.com/WeDontTrack/swagger-view <br/>
+Technical writeup: https://vijay2249.github.io/projects/swagger-view/
 
 ---
 
 
-
-### :hammer_and_wrench: Languages :
-<!-- TOOLS AND LANGUAGES -->
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="GO" alt="GO" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPP" alt="CPP" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux"  alt="Linux" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="50" height="50"/>&nbsp;
-
-  <!-- <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/js-icon.svg" alt="Javascript Icon" /> -->
-</div>
-
-
-### :hammer_and_wrench: Tools:
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp; -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>
-</div>
-<br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijay2249&layout=compact&theme=vision-friendly-dark)](https://github.com/vijay2249)
-
-
-<br/><hr>
-
-## WeDontTrack
+## [WeDontTrack](https://github.com/WeDontTrack)
 Organization where along with [@iredith](https://github.com/iredith), publish projects and try to make an idea work and keeping it open source just because it is possible.
 
-#### Recent Work
-Published Maven package [maximock](https://github.com/WeDontTrack/maximock/packages/2192655) to add some extra features while running wiremock
-
-<br/><hr>
-
-
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-- [Python learning on Steroids](https://dev.to/vijay2249/python-learning-on-steroids-ih1)
-- [Automate Windows Theme Changes Based on Time with a Batch Script](https://vijay2249.medium.com/automate-windows-theme-changes-based-on-time-with-a-batch-script-eda9889b02ea?source=rss-64d9425b14f4------2)
-- [Automate Windows Theme Changes Based on Time with a Batch Script](https://dev.to/vijay2249/automate-windows-theme-changes-based-on-time-with-a-batch-script-57li)
-- [Digital Certificates in Communication - What are THOSE???](https://dev.to/vijay2249/digital-certificates-in-communication-what-are-those-3673)
-- [What are the different types of DNS records, and what are their specific purposes?](https://dev.to/vijay2249/what-are-the-different-types-of-dns-records-and-what-are-their-specific-purposes-3ef4)
-- [Auto Publish/Release - GitHub Actions](https://dev.to/vijay2249/auto-publishrelease-github-actions-a29)
-- [Continuous Integration - GitHub Actions](https://dev.to/vijay2249/continuous-integration-github-actions-4goa)
-<!-- BLOG-POST-LIST:END -->
-
-### ⚡ Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#12](https://github.com/adrianhajdin/portfolio_website/pull/12) in [adrianhajdin/portfolio_website](https://github.com/adrianhajdin/portfolio_website)
-2. 🔒 Closed issue [#1](https://github.com/github-craftwork/sandbox-vijay2249/issues/1) in [github-craftwork/sandbox-vijay2249](https://github.com/github-craftwork/sandbox-vijay2249)
-3. 🔒 Closed issue [#780](https://github.com/SmartBear/soapui/issues/780) in [SmartBear/soapui](https://github.com/SmartBear/soapui)
-4. 🔒 Closed issue [#726](https://github.com/ronreiter/interactive-tutorials/issues/726) in [ronreiter/interactive-tutorials](https://github.com/ronreiter/interactive-tutorials)
-5. 🔒 Closed issue [#1219](https://github.com/pywinauto/pywinauto/issues/1219) in [pywinauto/pywinauto](https://github.com/pywinauto/pywinauto)
-<!--END_SECTION:activity-->
-
-<br/>
-<br/>
-<a href="https://www.buymeacoffee.com/VijayHCN" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 <br/>
 
 <h2>Also I like MUSIC</h2>
 
 This is my free time work. Just a time pass thing.
-<!-- <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 48 48">
-<circle cx="24" cy="24" r="20" fill="#f1001a"></circle><path fill="#fff" d="M22.862,29.653c-1.59,0-2.562-0.95-2.562-2.253c0-1.811,1.833-3.38,3.866-3.821l-4.727-11.641h8.239	l1.502,2.916h-5.765l3.446,8.394c0.287,0.663,0.464,1.392,0.464,2.098C27.302,27.842,24.828,29.653,22.862,29.653L22.862,29.653z M31.414,18.016l3.601,6.173c0.685,1.23,1.082,2.614,1.127,4.042c0,4.503-3.578,7.754-8.637,7.754H20.59	c-5.08,0-8.637-3.251-8.637-7.754c0.044-1.406,0.42-2.79,1.104-4.042l3.601-6.173h3.38l-4.219,7.271	c-0.508,0.879-0.795,1.867-0.839,2.878c0,2.878,1.966,4.899,5.699,4.899h6.715c3.733,0,5.699-2.043,5.699-4.899	c-0.022-1.01-0.309-1.999-0.839-2.878l-4.197-7.271H31.414z"></path>
-</svg> -->
+
 <a href="https://www.bandlab.com/coachbeardjr" alt="Coach Beard Jr." title="Coach Beard Jr.">
   <img width="48" height="48" src="https://img.icons8.com/color/48/bandlab.png" alt="bandlab"/>
 </a>
